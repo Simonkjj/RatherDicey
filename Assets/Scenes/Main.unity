@@ -742,7 +742,7 @@ MonoBehaviour:
   - {fileID: 5798288725173136019, guid: 160622b2eee763848aff78e0472999d0, type: 3}
   - {fileID: 2161620279223622106, guid: da9efcf24b7ebcc4a8c1c9223bede3bc, type: 3}
   - {fileID: 2161620279223622106, guid: dafab1edc8b122141b18294e7412c96b, type: 3}
-  - {fileID: 2161620279223622106, guid: 7aea20a19cc241b4ba20a4230b03d18a, type: 3}
+  - {fileID: 2161620279223622106, guid: a05d9a57b34957140a7eef837db414fe, type: 3}
   - {fileID: 2161620279223622106, guid: 4cf967812ee4c504391d37ae1bb5644b, type: 3}
   attacks:
   - {fileID: 8861686611824122837, guid: bd1d1ac37e9eb064ea4760350fafe78b, type: 3}

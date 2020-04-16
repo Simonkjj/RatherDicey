@@ -9,8 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1743357695143646174}
-  - component: {fileID: 434874229419724006}
-  - component: {fileID: 1479758248929715577}
   - component: {fileID: 3894053893003209049}
   m_Layer: 0
   m_Name: Model
@@ -27,45 +25,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 99304238260087331}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.525, y: 0.473, z: 0}
-  m_LocalScale: {x: 0.96252555, y: 1.2375885, z: 2.0637}
+  m_LocalPosition: {x: 4, y: -2.6, z: 0}
+  m_LocalScale: {x: 1.38, y: 1.5, z: 2}
   m_Children: []
   m_Father: {fileID: 738674235274311549}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!64 &434874229419724006
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 99304238260087331}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
---- !u!95 &1479758248929715577
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 99304238260087331}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f0b3eb33f6a3849428351eebc66ebad0, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!212 &3894053893003209049
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -164,10 +129,8 @@ MonoBehaviour:
   hitPoints: 1
   armorClass: 17
   taunts:
-  - YOUR NOT GOING TO RUN AWAY THIS TIME, baby
-  - Slavery is a choice but im going to make you my slave so it doesnt really make
-    sense
-  - GIVE ME BACK MY CROISSANTS
+  - BACK INTO QUARANTINE WITH YOU
+  - BOOMER REMOVER
   slideInTime: 0.5
   deathDelay: 2
   deathFX: {fileID: 0}
