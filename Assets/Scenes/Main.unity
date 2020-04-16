@@ -738,20 +738,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemies:
-  - {fileID: 2161620279223622106, guid: 4cf967812ee4c504391d37ae1bb5644b, type: 3}
-  - {fileID: 5798288725173136019, guid: 160622b2eee763848aff78e0472999d0, type: 3}
-  - {fileID: 2161620279223622106, guid: da9efcf24b7ebcc4a8c1c9223bede3bc, type: 3}
-  - {fileID: 2161620279223622106, guid: dafab1edc8b122141b18294e7412c96b, type: 3}
   - {fileID: 2161620279223622106, guid: a05d9a57b34957140a7eef837db414fe, type: 3}
   - {fileID: 2161620279223622106, guid: 4cf967812ee4c504391d37ae1bb5644b, type: 3}
+  - {fileID: 2161620279223622106, guid: c70c4dcbde0221f419eb0ed2e24b993f, type: 3}
   attacks:
   - {fileID: 8861686611824122837, guid: bd1d1ac37e9eb064ea4760350fafe78b, type: 3}
-  - {fileID: 8861686611824122837, guid: bee47700ede0b2c478a8bdd316ca6f8d, type: 3}
   - {fileID: 8861686611824122837, guid: 26a7fbed3a7faed419c28f469f5ea0fc, type: 3}
-  - {fileID: 8861686611824122837, guid: f16033866169f774d911f9c54a7da8ee, type: 3}
-  - {fileID: 8861686611824122837, guid: 26a7fbed3a7faed419c28f469f5ea0fc, type: 3}
-  - {fileID: 8861686611824122837, guid: 2c284f54343d30e469240349ba2f7377, type: 3}
-  - {fileID: 8861686611824122837, guid: 0a2d5c5cd9067ff42a8c557902dc0634, type: 3}
   enemySpawnDelay: 2
   maxPitchVariance: 0.2
   enemySpawnPos: {fileID: 1838992148}
