@@ -59,7 +59,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1f930ff3a3fb41c43b991e65dedd6c5d, type: 2}
+  - {fileID: 2100000, guid: 94925051aa1bd0c47a41918c9e07c687, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 5128812291613707245}
   - component: {fileID: 5240091962785643613}
   m_Layer: 0
-  m_Name: NullRef
+  m_Name: LutherUgh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -139,12 +139,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa559d35613532c4dae8fe83c6f2dffc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hitPoints: 5
-  armorClass: 12
+  hitPoints: 21
+  armorClass: 9
   taunts:
-  - I hope you're good at Googling
-  - Get ready to spend the next 4 hours in old stackexchange threads!
-  - Am I a bug in your program? Or in the engine? You'll never know.
+  - Ugh! Me Luther, Me number 1!
+  - Luther been to MOON for 4 years Ugh!
+  - Luther says Incest is Wincest!
+  - Ugh! Luther is Furry now!
   slideInTime: 0.5
   deathDelay: 2
   deathFX: {fileID: 0}
